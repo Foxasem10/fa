@@ -21,7 +21,7 @@ Tab1:Button("where are you from? I from Saudi Arabia،🇸🇦",function()
 print("U SEE A SCERIT NICE!")
 end)
 
-Tab1:Button("(Chat 💬 شات)Translate To English الترجمة إلى الإنجليزية",function()
+Tab1:Button("Chat 💬 شات Translate To English الترجمة إلى الإنجليزية",function()
 print("U SEE A SCERIT NICE!")
 end)
 
