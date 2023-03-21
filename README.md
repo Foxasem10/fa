@@ -1,7 +1,7 @@
 
 local DarkraiX = loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Kavo-Ui/main/Darkrai%20Ui", true))()
 
-local Library = DarkraiX:Window("Bumex☄️Hub","","",Enum.KeyCode.RightControl);
+local Library = DarkraiX:Window("Lexers☄️Hub","","",Enum.KeyCode.RightControl);
 
 Tab1 = Library:Tab("Main ⭐ رئيسي")
 
