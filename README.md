@@ -69,7 +69,7 @@ end)
 Tab3 = Library:Tab("Scripts 📜 سكربتات")
 
 Tab3:Button("Flashback Script 🫨",function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/CCTV%20Camera'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe./main/L"))()
 end)
 
 Tab3:Button("CCTV Camera 📷",function()
