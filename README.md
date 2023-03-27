@@ -68,6 +68,10 @@ end)
 
 Tab3 = Library:Tab("Scripts 📜 سكربتات")
 
+Tab3:Button("Flashback Script 🫨",function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/CCTV%20Camera'))()
+end)
+
 Tab3:Button("CCTV Camera 📷",function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/CCTV%20Camera'))()
 end)
@@ -235,6 +239,10 @@ local Sound = Instance.new("Sound",game:GetService("SoundService"))
 Sound.SoundId = "rbxassetid://232127604"
 Sound:Play()
 game:GetService("StarterGui"):SetCore("SendNotification",{["Title"] = "Invisible Toggle Loaded",["Text"] = "Press "..Keybind.." to become change visibility.",["Duration"] = 20,["Button1"] = "Okay / حسناً"})
+end)
+
+Tab3:Button("Fly Gui Best",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/gaz0U0XX"))();
 end)
 
 Tab3:Button("Fe Disabled Tools 🏵️",function()
