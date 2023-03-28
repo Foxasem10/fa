@@ -267,6 +267,10 @@ end)
 
 Tab4 = Library:Tab("GAMES 🕹️ العاب")
 
+Tab4:Button("Nerd Doors 👁️",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/DoorsV3_ByNerd.lua"))()
+end)
+
 Tab4:Button("Murder mystery 2 🔪",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script", true))()
 end)
